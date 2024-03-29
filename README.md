@@ -12,3 +12,7 @@
 ## Notes
 - Make sure to run the script as an administrator to ensure proper functioning, especially if Path of Exile is running with elevated privileges.
 - This script is provided as-is and may require adjustments based on your system configuration and game settings.
+
+## Bug Fixes
+- Update pushed that fixes macro pressing "enter" when on any window that is titled "Path of exile". Ex. PoE reddit, poe trade site, filterblade, etc.
+- Update pushed that allows the quit key to work.
