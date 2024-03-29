@@ -6,7 +6,7 @@
 5. Press `F6` to exit the script.
 
 ## Script Details
-- **Loop:** The script continuously checks if the Path of Exile window is open. If it is, it sends a simulated "Enter" keypress to the game window every 350 milliseconds. This can be useful for certain in-game activities where repeated Enter presses are required.
+- **Loop:** The script continuously checks if the Path of Exile window is open. If it is, it sends a simulated "Enter" keypress to the game window every 350 milliseconds. This can be useful for tabbing out and using your computer for other things (browsing reddit, etc.)
 - **Exit Hotkey (`F6`):** Pressing `F6` terminates the script and exits.
 
 ## Notes
